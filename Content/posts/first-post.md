@@ -7,6 +7,7 @@ tags: swift, html, css, netlify
 
 <div class="MySwiftPortfolioWeb">
 <p>안녕하세요 신입 개발자가 될 김건우의 포트폴리오 사이트입니다</p>
+</br>
 <h3>주요기능</h3>
 </br>
     <ul>
@@ -16,9 +17,7 @@ tags: swift, html, css, netlify
         
     </ul>
     </br>
-    
-    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-15%20%EC%98%A4%ED%9B%84%202.20.33.png"  width="100%" height="100%">
-
+     <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/portfolio.png"  width="100%" height="100%">
     </br>
     </div>
     <h3>개발하게 된 동기</h3>
@@ -28,7 +27,10 @@ tags: swift, html, css, netlify
     <P>개발 기간: 2023년 11월 14 ~ 15일</p>
     </br>
     <p>소감: 기본 제공 템플릿이 잘되어 있어서 하루만에 만든것치고는 잘한거같지만 세밀한 요소 설정을 못한것이 아쉽고 자료가 부족해 배포가 어려웠습니다 또,스위프트 라이브러리지만 정작 스위프트는 많이 쓰이지않아서 아쉬웠습니다
-    <p>바로가기: ![MySwiftPortfolioWeb](https://github.com/Drywoo/MySwiftPortfolioWeb)</p>
+</p>
+<center>
+<a href="https://github.com/Drywoo/MySwiftPortfolioWeb">깃허브 바로가기</a>
+</center>
 <style>
         @keyframes animation {
             
@@ -44,5 +46,4 @@ tags: swift, html, css, netlify
         }
 </style>
 </div>
-
 
