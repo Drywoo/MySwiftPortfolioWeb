@@ -17,7 +17,7 @@ tags: swift, html, css, netlify
     </ul>
     </br>
     
-    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-15%20%EC%98%A4%ED%9B%84%202.20.33.png"  width="50%" height="100%">
+    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-11-15%20%EC%98%A4%ED%9B%84%202.20.33.png"  width="100%" height="100%">
 
     </br>
     </div>
