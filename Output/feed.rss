@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MySwiftPortfolioWeb</title><description>A description of MySwiftPortfolioWeb</description><link>https://your-website-url.com</link><language>en</language><lastBuildDate>Tue, 14 Nov 2023 11:27:19 +0900</lastBuildDate><pubDate>Tue, 14 Nov 2023 11:27:19 +0900</pubDate><ttl>250</ttl><atom:link href="https://your-website-url.com/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://your-website-url.com/posts/first-post</guid><title>포트폴리오 바로 가기</title><description>포기를 모르는 개발자, 김건우입니다</description><link>https://your-website-url.com/posts/first-post</link><pubDate>Tue, 14 Nov 2023 10:12:00 +0900</pubDate><content:encoded><![CDATA[<h1>포트폴리오 바로 가기</h1><img src="MySwiftPortfolioWeb/Resources/Macbook.png" alt="Macbook"/>]]></content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MySwiftPortfolioWeb</title><description>안넝하세요 내일을 그리는 개발자 김건우입니다. 프로젝트를 보시려면 제목을 클릭해주세요😆</description><link>https://your-website-url.com</link><language>en</language><lastBuildDate>Wed, 15 Nov 2023 12:21:10 +0900</lastBuildDate><pubDate>Wed, 15 Nov 2023 12:21:10 +0900</pubDate><ttl>250</ttl><atom:link href="https://your-website-url.com/feed.rss" rel="self" type="application/rss+xml"/><item><guid isPermaLink="true">https://your-website-url.com/posts/ReEd</guid><title>ReEd</title><description>학원 출석 관리 서비스</description><link>https://your-website-url.com/posts/ReEd</link><pubDate>Wed, 15 Nov 2023 12:20:49 +0900</pubDate><content:encoded><![CDATA[<h1>ReEd</h1><div class="ReEd">
+<p>학원과 학생을 잇다, ReEd 입니다</p>
+<h3>주요기능</h3>
+</br>
+    <ul>
+        <li>
+            <h3>Alamofire를 이용한 로그인 기능</h2>
+        </li>
+        
+        <li>
+            <h3>CoreNFC를 이용한 NFC 출석 기능</h2>
+        </li>
+        
+        <li>
+            <h3>AvFoundation을 이용한 QR코드 출석 기능</h2>
+        </li>
+    </ul>
+    </br>
+    
+    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/ReEd1.png"  width="22%" height="100%">
+        
+    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/ReEd.png"  width="22%" height="100%">
+        
+    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/ReEd2.png"  width="22%" height="100%">
+        
+    <img src="https://raw.githubusercontent.com/Drywoo/MySwiftPortfolioWeb/main/img/ReEd3.png"  width="22%" height="100%">
+    </br>
+    </div><h3>개발하게 된 동기</h3></br>
+    <p>학원을 다니는 친구들을 보다가 서비스가 비싸다 등등의 이유로 출석을 수기로 진행하는 학원을 보게 되어서 온라인으로 쉽게 관리하면 어떨까?라는 아이디어가 떠오르게 되었습니다 </p>
+    </br>
+    <P>개발 기간: 2023년 3월 ~ 11월</p>
+    </br>
+    <p>소감: 첫 장기 프로젝트인 만큼 미숙한 부분이 많았지만 그래도 개선해야할 부분을 스스로 알수있게되어서 다행이라고 생각했습니다
+<style>
+        @keyframes animation {
+            
+            0% {
+                opacity: 0%;
+            }
+            100% {
+                opacity: 100%;
+            }
+        }
+        img {
+            animation: animation 3s;
+        }
+</style>
+</div>
+
+
+
+]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/posts/Who</guid><title>김건우는?</title><description>어떤 사람일까요?</description><link>https://your-website-url.com/posts/Who</link><pubDate>Tue, 14 Nov 2023 22:44:02 +0900</pubDate><content:encoded><![CDATA[<h1>Title</h1>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/posts/OurBiz</guid><title>OurBiz</title><description>직장인을 위한 온라인 명함 관리 서비스, OurBiz</description><link>https://your-website-url.com/posts/OurBiz</link><pubDate>Tue, 14 Nov 2023 22:35:50 +0900</pubDate><content:encoded><![CDATA[<h1>OurBiz 바로 가기</h1><div align="center">
+<img src="https://raw.githubusercontent.com/Drywoo/NariJoa/main/Macbook.png"  width="150%" height="300%">
+</div>]]></content:encoded></item><item><guid isPermaLink="true">https://your-website-url.com/posts/first-post</guid><title>MySwiftPortfolioWeb</title><description>Xcode로 포트폴리오 사이트를 만들어보자</description><link>https://your-website-url.com/posts/first-post</link><pubDate>Tue, 14 Nov 2023 10:12:00 +0900</pubDate><content:encoded><![CDATA[<h1>MySwiftPortfolioWeb</h1>]]></content:encoded></item></channel></rss>
