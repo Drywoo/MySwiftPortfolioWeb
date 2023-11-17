@@ -16,7 +16,7 @@ struct MySwiftPortfolioWeb: Website {
     // Update these properties to configure your website:
     var url = URL(string: "https://your-website-url.com")!
     var name = "MySwiftPortfolioWeb"
-    var description = "안넝하세요 내일을 그리는 개발자 김건우입니다. 프로젝트를 보시려면 제목을 클릭해주세요😆"
+    var description = "안녕하세요 내일을 그리는 개발자 김건우입니다. 프로젝트를 보시려면 제목을 클릭해주세요😆"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
